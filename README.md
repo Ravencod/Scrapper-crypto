@@ -1,24 +1,13 @@
-# README
+## 🔥🔥🔥🔥🔥🔥🔥 Exercice de Jeudi 08 Novembre 🔥🔥🔥🔥🔥🔥🔥 
+### Greetings
+<p>Dear moussaillon,</p>
+<p><strong>Attaché à ce repo se trouve le Scrapper</strong></p>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Noms | Pseudo Slack
+------------ | -------------
+Raphael Caillaux| @Raphael
 
-Things you may want to cover:
+Avec l'aide la Team Station F 😝
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<strong><p>Va te chercher un café le temps que la page charge :coffee: 😆 </p>
+### Bonne correction ! :poop:
