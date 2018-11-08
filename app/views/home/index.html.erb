@@ -1,0 +1,14 @@
+<%= form_for @crypto, url: home_show_path do |f| %>
+
+<p class="azer"><strong><font size="5">Choose da crypto :</strong></p>
+<div class="centered2">
+<div class="btn-group">
+     
+      <%= f.collection_select :id, Crypto.order(:name),:id,:name, {include_blank: false}, class:'btn btn-dark dropdown-toggle dropdown-toggle-split' %>
+      <%= f.submit 'SHOW DA MOUHLA', class: 'btn btn-dark'%>
+</div>
+</div>
+
+<% end %>
+
+
